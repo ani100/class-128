@@ -1,0 +1,32 @@
+body {
+    background-size: cover;
+}
+
+#head {
+    background-color: rgb(248, 205, 99);
+    margin: 30px;
+    padding: 25px;
+    font-family: Cambria;
+    color: white;
+}
+
+#note {
+    font-size: 16px;
+    color: black;
+}
+
+#song_name {
+    width: 230px;
+    font-size: 25px;
+}
+
+#song_name:hover {
+    background-color: red;
+    color: yellow;
+    width: 150px;
+}
+
+canvas {
+    border-radius: 25px;
+    background-color: black;
+}
